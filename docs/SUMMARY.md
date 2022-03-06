@@ -3,22 +3,28 @@
 ## overview
 
 * [What is NewCo?](README.md)
-* [White Paper Structure](overview/white-paper-structure.md)
+* [White Paper Index](overview/white-paper-structure.md)
 
-## introduction
+## fundamentals
 
-* [Current Ecosystem](introduction/current-ecosystem.md)
-* [Users and Audience](introduction/audience-and-users.md)
-* [Flawed Web3](introduction/flawed-web3.md)
-* [Adopting Hybrid](introduction/hybrid-model/README.md)
-  * [User Assets](introduction/hybrid-model/user-assets.md)
-* [Our Solution](introduction/our-solution.md)
+* [Ecosystem](fundamentals/current-ecosystem.md)
+* [Users and Audience](fundamentals/audience-and-users.md)
+* [Flaws](fundamentals/flawed-web3.md)
+* [Adopting Hybrid](fundamentals/hybrid-model/README.md)
+  * [User Assets](fundamentals/hybrid-model/user-assets.md)
+* [Our Solution](fundamentals/our-solution.md)
+
+## roadmap
+
+* [March 2022](roadmap/february-and-march-2022.md)
+* [April 2022](roadmap/april-2022.md)
+* [May 2022 and Beyond](roadmap/may-2022-and-beyond.md)
 
 ## app product docs
 
 * [Creating an Account](app-product-docs/creating-an-account/README.md)
   * [Verification Methods](app-product-docs/creating-an-account/verification-methods.md)
-* [Connecting Wallets](app-product-docs/connecting-wallets/README.md)
+* [Connecting a Wallet](app-product-docs/connecting-wallets/README.md)
   * [Web3 Extension Options](app-product-docs/connecting-wallets/web3-extension-options.md)
   * [Chain Compatibility](app-product-docs/connecting-wallets/chain-compatibility.md)
 * [Pagination](app-product-docs/pagination/README.md)
@@ -34,25 +40,21 @@
   * [Social Media](app-product-docs/widgets/social-media.md)
   * [Trading Activity](app-product-docs/widgets/trading-activity.md)
   * [Previous Owners](app-product-docs/widgets/previous-owners.md)
-* [Security](app-product-docs/security.md)
+* [Security and Privacy](app-product-docs/security.md)
 
-## API and Monetization
+## api and digitalization
 
-* [Partner Program](api-and-monetization/partner-program.md)
-* [Metered API](api-and-monetization/metered-api.md)
-* [Tokenization](api-and-monetization/tokenization.md)
-
-## roadmap
-
-* [February & March 2022](roadmap/february-and-march-2022.md)
-* [April 2022](roadmap/april-2022.md)
-* [May 2022 and Beyond](roadmap/may-2022-and-beyond.md)
-
-## Resources
-
-* [Meet the Team](resources/meet-the-team.md)
-* [FAQ](resources/faq.md)
-* [Stakeholders](resources/stakeholders.md)
+* [Digital Partner Program](api-and-digitalization/partner-program.md)
+* [API Structure](api-and-digitalization/metered-api/README.md)
+  * [Payload](api-and-digitalization/metered-api/metered-api.md)
+  * [Metered Usage](api-and-digitalization/metered-api/metered-api-1.md)
+  * [Crypto-enabled Faucet](api-and-digitalization/metered-api/metered-api-2.md)
+* [Tokenization](api-and-digitalization/tokenization/README.md)
+  * [Supply and Schedule](api-and-digitalization/tokenization/supply-and-schedule.md)
+  * [Booking Model](api-and-digitalization/tokenization/booking-model.md)
+  * [Company Treasury](api-and-digitalization/tokenization/company-treasury.md)
+  * [Staking](api-and-digitalization/tokenization/staking.md)
+  * [Full Recyclability](api-and-digitalization/tokenization/full-recyclability.md)
 
 ## contact us
 
@@ -62,6 +64,12 @@
 * [Telegram](contact-us/telegram.md)
 * [Instagram](contact-us/instagram.md)
 * [Other](contact-us/other.md)
+
+## Resources
+
+* [Meet the Team](resources/meet-the-team.md)
+* [FAQ](resources/faq.md)
+* [Stakeholders](resources/stakeholders.md)
 
 ## Extras
 
