@@ -1,20 +1,19 @@
+---
+description: The Official NewCo White Paper (version 0.1)
+cover: >-
+  https://images.unsplash.com/photo-1485119502162-016e4409beab?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxidWxifGVufDB8fHx8MTY0NjU5NDU4MQ&ixlib=rb-1.2.1&q=85
+coverY: 196.42938144329895
+---
+
 # What is NewCo?
 
-{% hint style="info" %}
-**Good to know:** providing a brief overview of your product and its core use cases is a great place to start with product docs. Your product might seem obvious to you – you made it! However, to others, even folks who are trying your product after reading your site or getting a sales demo, it can still be unclear. This is your chance to clarify your product and set the right expectations!
-{% endhint %}
+## Overview
 
-Here are a couple of examples of succinct overviews from products with really great docs:
+A **non-fungible token** (**NFT**) is a non-interchangeable unit of data stored on a [blockchain](https://en.wikipedia.org/wiki/Blockchain), a form of digital [ledger](https://en.wikipedia.org/wiki/Ledger), that classically can be sold and traded freely. In practice, NFTs are a modern mechanism for web3 users to invest, create and share with others. These remote pieces of blockchain data represent your digital identity.&#x20;
 
-> Loom is a video messaging tool that helps you get your message across through instantly shareable videos.
+> Non-fungible Tokens are the most inventive and revolutionary aspect of crypto to date. That being said, they are also the least developed.
 >
-> With Loom, you can record your camera, microphone, and desktop simultaneously. Your video is then instantly available to share through Loom's patented technology.
->
-> — From the [Loom Docs](https://support.loom.com/hc/en-us/articles/360002158057-What-is-Loom-)
-
-> The Mailchimp Marketing API provides programmatic access to Mailchimp data and functionality, allowing developers to build custom features to do things like sync email activity and campaign analytics with their database, manage audiences and campaigns, and more.
->
-> — From the [Mailchimp Marketing API docs](https://mailchimp.com/developer/marketing/docs/fundamentals/)
+> — _0xMerzlin, Twitter_
 
 ## Getting Started
 
