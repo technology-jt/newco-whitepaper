@@ -8,9 +8,9 @@
 ## introduction
 
 * [Current Ecosystem](introduction/current-ecosystem.md)
-* [Audience and Users](introduction/audience-and-users.md)
+* [Users and Audience](introduction/audience-and-users.md)
 * [Flawed Web3](introduction/flawed-web3.md)
-* [Hybrid Model](introduction/hybrid-model/README.md)
+* [Adopting Hybrid](introduction/hybrid-model/README.md)
   * [User Assets](introduction/hybrid-model/user-assets.md)
 * [Our Solution](introduction/our-solution.md)
 

@@ -1,14 +1,10 @@
-# Hybrid Model
+# Adopting Hybrid
 
 ## Overview
 
 
 
-## Current methodology
-
-
-
-## Thesis for Hybridization / Duality
+## Argument for Hybridization / Duality
 
 
 
