@@ -38,7 +38,7 @@
 
 ## API and Monetization
 
-* [Advert Revenue](api-and-monetization/advert-revenue.md)
+* [Partner Program](api-and-monetization/partner-program.md)
 * [Metered API](api-and-monetization/metered-api.md)
 * [Tokenization](api-and-monetization/tokenization.md)
 
