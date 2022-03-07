@@ -3,7 +3,7 @@
 ## overview
 
 * [What is NewCo?](README.md)
-* [White Paper Index](overview/white-paper-structure.md)
+* [Index](overview/white-paper-structure.md)
 
 ## fundamentals
 
