@@ -8,7 +8,7 @@ coverY: 50
 # What is Wrender?
 
 {% hint style="success" %}
-Wrender is an open architecture platform focused on merging on-and-off chain users.
+Wrender is an open architecture platform focused on bringing on-and-off chain users together.
 {% endhint %}
 
 ## Fundamentals
