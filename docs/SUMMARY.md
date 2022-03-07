@@ -8,17 +8,10 @@
 ## fundamentals
 
 * [Ecosystem](fundamentals/current-ecosystem.md)
-* [Users and Audience](fundamentals/audience-and-users.md)
-* [Flaws](fundamentals/flawed-web3.md)
 * [Adopting Hybrid](fundamentals/hybrid-model/README.md)
-  * [User Assets](fundamentals/hybrid-model/user-assets.md)
+  * [Defining the Assets](fundamentals/hybrid-model/user-assets.md)
+* [Users and Audience](fundamentals/audience-and-users.md)
 * [Our Solution](fundamentals/our-solution.md)
-
-## roadmap
-
-* [March 2022](roadmap/february-and-march-2022.md)
-* [April 2022](roadmap/april-2022.md)
-* [May 2022 and Beyond](roadmap/may-2022-and-beyond.md)
 
 ## app product docs
 
@@ -55,6 +48,12 @@
   * [Company Treasury](api-and-digitalization/tokenization/company-treasury.md)
   * [Staking](api-and-digitalization/tokenization/staking.md)
   * [Full Recyclability](api-and-digitalization/tokenization/full-recyclability.md)
+
+## roadmap
+
+* [March 2022](roadmap/february-and-march-2022.md)
+* [April 2022](roadmap/april-2022.md)
+* [May 2022 and Beyond](roadmap/may-2022-and-beyond.md)
 
 ## contact us
 
