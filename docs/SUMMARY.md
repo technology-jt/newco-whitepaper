@@ -2,7 +2,7 @@
 
 ## overview
 
-* [What is NewCo?](README.md)
+* [What is Wrender?](README.md)
 * [Index](overview/white-paper-structure.md)
 
 ## fundamentals

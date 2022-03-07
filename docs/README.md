@@ -1,11 +1,15 @@
 ---
-description: The Official NewCo White Paper (version 0.1)
+description: The Official Wrender White Paper (version 0.1)
 cover: >-
   https://images.unsplash.com/photo-1485119502162-016e4409beab?crop=entropy&cs=srgb&fm=jpg&ixid=MnwxOTcwMjR8MHwxfHNlYXJjaHw1fHxidWxifGVufDB8fHx8MTY0NjU5NDU4MQ&ixlib=rb-1.2.1&q=85
 coverY: 50
 ---
 
-# What is NewCo?
+# What is Wrender?
+
+{% hint style="success" %}
+Wrender is an open architecture platform focused on merging on-and-off chain users.
+{% endhint %}
 
 ## Fundamentals
 
