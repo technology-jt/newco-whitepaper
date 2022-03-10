@@ -1,9 +1,6 @@
 # Table of contents
 
-## overview
-
-* [What is Wrender?](README.md)
-* [Index](overview/white-paper-structure.md)
+* [VELD VIEW](README.md)
 
 ## fundamentals
 
@@ -55,9 +52,8 @@
 * [April 2022](roadmap/april-2022.md)
 * [May 2022 and Beyond](roadmap/may-2022-and-beyond.md)
 
-## contact us
+## Contact Us
 
-* [General](contact-us/general.md)
 * [Twitter](contact-us/twitter.md)
 * [Discord](contact-us/discord.md)
 * [Telegram](contact-us/telegram.md)
