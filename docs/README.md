@@ -1,7 +1,7 @@
 ---
 description: The Official Veld View White Paper (version 0.0)
 cover: .gitbook/assets/220309.banner.01 (1).png
-coverY: 0
+coverY: 41.768231768231765
 ---
 
 # VELD VIEW
