@@ -2,6 +2,7 @@
 description: The Official Veld View White Paper (version 0.0)
 cover: .gitbook/assets/220317-banner.png
 coverY: -71.93706293706293
+layout: landing
 ---
 
 # VELD VIEW
