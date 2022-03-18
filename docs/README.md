@@ -1,10 +1,10 @@
 ---
 description: Published March 17, 2022 (version 1.0)
-cover: .gitbook/assets/220317-banner.png
-coverY: -71.93706293706293
+cover: .gitbook/assets/Banner Tempt (1).png
+coverY: 435.5524475524476
 ---
 
-# Official Whitepaper
+# Official White Paper
 
 {% hint style="success" %}
 **Focus:** <mark style="color:purple;">Veld View</mark> is a flexible platform focused on bringing on-and-off chain users together.
