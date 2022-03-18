@@ -1,10 +1,10 @@
 ---
-description: The Official Veld View White Paper (version 0.0)
+description: Published March 17, 2022 (version 1.0)
 cover: .gitbook/assets/220317-banner.png
 coverY: -71.93706293706293
 ---
 
-# VELD VIEW
+# Official Whitepaper
 
 {% hint style="success" %}
 **Focus:** <mark style="color:purple;">Veld View</mark> is a flexible platform focused on bringing on-and-off chain users together.

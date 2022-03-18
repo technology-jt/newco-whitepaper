@@ -1,6 +1,6 @@
 # Table of contents
 
-* [VELD VIEW](README.md)
+* [Official Whitepaper](README.md)
 
 ## fundamentals
 
