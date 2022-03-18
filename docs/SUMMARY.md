@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Official Whitepaper](README.md)
+* [Official White Paper](README.md)
 
 ## fundamentals
 
