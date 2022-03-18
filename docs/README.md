@@ -1,7 +1,7 @@
 ---
 description: Published March 17, 2022 (version 1.0)
 cover: .gitbook/assets/Banner Tempt (1).png
-coverY: 435.5524475524476
+coverY: 281.1468531468532
 ---
 
 # Official White Paper
