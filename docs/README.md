@@ -1,7 +1,7 @@
 ---
 description: Published March 17, 2022 (version 1.0)
-cover: .gitbook/assets/Asset 10.png
-coverY: -161.4985014985015
+cover: .gitbook/assets/Asset 11.png
+coverY: -121.41858141858141
 ---
 
 # Official White Paper
