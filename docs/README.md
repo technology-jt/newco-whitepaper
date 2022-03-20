@@ -1,6 +1,6 @@
 ---
 description: Published March 17, 2022 (version 1.0)
-cover: .gitbook/assets/220320-name-1800x728-light-smaller-dash.png
+cover: .gitbook/assets/220320-name-1800x728-light-smaller-dash (1).png
 coverY: 0
 ---
 
