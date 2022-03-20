@@ -1,6 +1,6 @@
 ---
 description: Published March 17, 2022 (version 1.0)
-cover: .gitbook/assets/220319-banner-1800x728-light.png
+cover: .gitbook/assets/220319-banner-1800x728-light-split v.png
 coverY: 0
 ---
 
