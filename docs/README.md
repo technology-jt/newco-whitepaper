@@ -10,13 +10,13 @@ coverY: 0
 
 **The platform is dedicated to bringing an incredibly simple social experience to a space that desperately needs it.**&#x20;
 
-We want to stand on the shoulders of those that have built successful platforms. We want to take what works, and learn from it. We want to drive better adoption, for everyone.
+We want to stand on the shoulders of those that have built successful platforms before us. We want to take what works, and learn from it. We want to drive better adoption, for everyone.
 
 And with that advantage, we want to develop in a void that deserves better: web3 and the NFT-media space.&#x20;
 
 ## Our Story
 
-The idea behind <mark style="color:purple;">**Veld View**</mark> is simple, and ultimately born out of practical windfalls. It's an accumulation of these bad features, both in and out of the web3 space, that many of us have experienced already. And to best explain what we're trying to build, we're going to take a step back.&#x20;
+The idea behind <mark style="color:purple;">**Veld View**</mark> is simple, and ultimately born out of practical windfalls. It's an accumulation of bad features, both in and out of the web3 space, that many of us have experienced already. And to best explain what we're trying to build, we're going to take a step back.&#x20;
 
 **For most new adopters in web3 and NFT-media space, the process of purchasing an asset is painstakingly complicated**.
 
@@ -35,12 +35,14 @@ The perception of value at risk, and the lack of utility beyond asset accumulati
 
 For the hyper-interested, they've likely established a gambit of applications that help them keep up. There's implicit needs for how they want to engage with the space:&#x20;
 
-1. users want to talk and connect with like-minded individuals
-2. users want to learn about what's next
-3. users want to see excitement on their platform
-4. users want discretion around data privacy and security
+{% hint style="success" %}
+1. Users want to talk and connect with like-minded individuals
+2. Users want to learn about what's next
+3. Users want to see excitement and activity on their platform
+4. Users want discretion around data privacy and security
+{% endhint %}
 
-**And in pursuit of many of these things, you're likely to make a few mistakes. We all have.**
+**And in pursuit of many of these things, you're likely to make a few mistakes - we all have.**
 
 Between a million wallets across a dozen chains, an uncomfortable number of chat room apps all trying to accomplish the same thing, and an error-filled purist interpretation of what NFT users want, a lot of users get exhausted.
 
