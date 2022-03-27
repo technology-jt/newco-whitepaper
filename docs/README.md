@@ -10,40 +10,47 @@ coverY: 0
 
 **The platform is dedicated to bringing an incredibly simple social experience to a space that desperately needs it.**&#x20;
 
-We want to stand on the shoulders of those that have built successful platforms before us. We want to take what works, and learn from it. And with that advantage, we want to fill and develop in a void that deserves better: web3 and the NFT space.
+We want to stand on the shoulders of those that have built successful platforms. We want to take what works, and learn from it. We want to drive better adoption, for everyone.
+
+And with that advantage, we want to develop in a void that deserves better: web3 and the NFT-media space.&#x20;
 
 ## Our Story
 
-The idea behind <mark style="color:purple;">**Veld View**</mark> is simple and ultimately born out of practical experiences. It's an accumulation of these experiences, both in and out of the web3 space, that many of us have been through already. And to best explain what we're trying to develop, we're going to take a step back.&#x20;
+The idea behind <mark style="color:purple;">**Veld View**</mark> is simple, and ultimately born out of practical windfalls. It's an accumulation of these bad features, both in and out of the web3 space, that many of us have experienced already. And to best explain what we're trying to build, we're going to take a step back.&#x20;
 
-**For most new adopters in the crypto and web3-media space, the process of purchasing an NFT is painstakingly complicated**.
+**For most new adopters in web3 and NFT-media space, the process of purchasing an asset is painstakingly complicated**.
 
-And through this process, a lot of valid questions are usually asked:
+And through this process, a lot of valid concerns are usually asked:
 
 {% hint style="danger" %}
-1. Do I own this image? Who is the author? Are there others like it?
+1. Do I own this piece of media? Who and how was it created? Are there others like it?
 2. Can I trust the seller? Is this a scam? Is it safe to connect my wallet?
-3. How do I talk to other people in my shoes?
+3. How do I talk other folks investing in these too?
 4. What next?
 {% endhint %}
 
-**The adoption tends to end there, hard stop.**
+**Most adoption curves tend to end there, full stop.**
 
-The perception of value at risk, and the lack of utility beyond accumulation, usually turns most web2 users away. And for the folks that stick around, it's a rabbit-hole of never-ending learning, collecting, and navigating the space that travels at lightspeed.
+The perception of value at risk, and the lack of utility beyond asset accumulation, usually turns most web2 users away. And for the folks that stick around, it's a rabbit-hole of never-ending learning, collecting, and navigating a space that travels at lightspeed.
 
-For the hyper-interested, they've likely established an on-chain presence across platforms. There's implicit needs and interests for how they want to engage with the space. They want to connect with others interested in the things they're interested in, they want to talk to people and learn about what's next, they want to see engagement from others in the space, and they want privacy at their control.&#x20;
+For the hyper-interested, they've likely established a gambit of applications that help them keep up. There's implicit needs for how they want to engage with the space:&#x20;
 
-**And in pursuit of many of these things, you're likely to make a few mistakes along the way. We all have.**
+1. users want to talk and connect with like-minded individuals
+2. users want to learn about what's next
+3. users want to see excitement on their platform
+4. users want discretion around data privacy and security
 
-Between a million wallets across a dozen chains, an uncomfortable number of chat room apps all trying to accomplish the same thing, and an error-filled purist approach to what NFT users want, a lot of users get exhausted.
+**And in pursuit of many of these things, you're likely to make a few mistakes. We all have.**
 
-There's too much friction. A lot of developers and visionaries see the peak, but not the mountain before them. It's practically a full-time job just trying to keep up.
+Between a million wallets across a dozen chains, an uncomfortable number of chat room apps all trying to accomplish the same thing, and an error-filled purist interpretation of what NFT users want, a lot of users get exhausted.
+
+A lot of developers see the peak, but not the mountain before them. We believe the space needs a few more practicians and less modern day visionaries.
 
 **Is this really the best experience Web3 has to offer?**
 
-The answer is **no**, and we're here to _solve_ that.
+The answer is **no**, and we're here to solve that. Build what works. Make it simple. And fill the neverending veld of needs for a community that is begging for broader adoption.
 
-> _on one hand, the crypto space is beautiful in that it's evolving, literally all the time... I can't think of a time where creators weren't trying to build something new. but on the other hand, it adds a massive amount of friction into the system ... and my gut tells me, I think the space would be better off slowing down._
+> _on one hand, the crypto space is beautiful in that it's evolving, literally all the time... I can't think of a time where creators weren't trying to build something new but on the other hand, it adds a massive amount of friction into the system ... **and my gut tells me, I think the space would be better off slowing down.**_
 >
 > — From Twitter, unknown
 
