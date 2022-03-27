@@ -8,15 +8,17 @@ coverY: 0
 
 <mark style="color:purple;">**Veld View**</mark> is a widget-enabled social NFT platform that is focused on bridging the gap between on- and off-chain users.
 
-The platform is dedicated to bringing an incredibly simple social experience to a space that desperately needs it.&#x20;
+**The platform is dedicated to bringing an incredibly simple social experience to a space that desperately needs it.**&#x20;
 
-We want to stand on the shoulders of those that have built the platforms we all use today. And with that advantage, we want to fill the void that deserves better: web3 and the NFT space.
+We want to stand on the shoulders of those that have built successful platforms before us. We want to take what works, and learn from it. And with that advantage, we want to fill and develop in a void that deserves better: web3 and the NFT space.
 
 ## Our Story
 
 The idea behind <mark style="color:purple;">**Veld View**</mark> is simple and ultimately born out of practical experiences. It's an accumulation of these experiences, both in and out of the web3 space, that many of us have been through already. And to best explain what we're trying to develop, we're going to take a step back.&#x20;
 
-**For most new adopters in the crypto and web3-media space, the process of purchasing an NFT is painstakingly complicated**. And through this process, a lot of valid questions are usually asked:
+**For most new adopters in the crypto and web3-media space, the process of purchasing an NFT is painstakingly complicated**.
+
+And through this process, a lot of valid questions are usually asked:
 
 {% hint style="danger" %}
 1. Do I own this image? Who is the author? Are there others like it?
@@ -47,9 +49,11 @@ The answer is **no**, and we're here to _solve_ that.
 
 ## White Paper Outline
 
-We want to walk you through the key ideas that helped us develop <mark style="color:purple;">Veld View,</mark> before diving into the application and API.
+We want to walk you through the key ideas that helped us develop <mark style="color:purple;">Veld View,</mark> before diving into the application specifications and API.
 
-This document will serve as an up-to-date white paper outlining our goals, initiatives, and development behind <mark style="color:purple;">Veld View</mark>. The document is structured first as a narrative to the founding of our Company and the original idea, and then transition to higher-level product specs and our roadmap for API / digitalization. We aim to update it. Often.
+**This document will serve as an up-to-date white paper outlining our goals, initiatives, and foundation behind **<mark style="color:purple;">**Veld View**</mark>**. We have a lot of big ideas, but we're practicians at heart. We're here to develop, and build simple.**&#x20;
+
+This document is structured first as a narrative around the founding of our Company and the original idea, and then transition to higher-level product specs and our roadmap for API / digitalization. We aim to update it - often.
 
 {% hint style="info" %}
 **Idea:** Feedback is extremely encouraged. Please do not hesitate to reach out to the team!
