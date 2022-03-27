@@ -1,39 +1,47 @@
 ---
-description: Published March 17, 2022 (version 1.0)
+description: Published March 26, 2022 (version 1.0)
 cover: .gitbook/assets/220320-name-1800x728-light-smaller-dash (1).png
 coverY: 0
 ---
 
 # Official White Paper
 
-{% hint style="success" %}
-**Focus:** <mark style="color:purple;">Veld View</mark> is a flexible platform focused on bringing on-and-off chain users together.
-{% endhint %}
+<mark style="color:purple;">**Veld View**</mark> is a widget-enabled social NFT platform that is focused on bridging the gap between on- and off-chain users.
+
+The platform is dedicated to bringing an incredibly simple social experience to a space that desperately needs it.&#x20;
+
+We want to stand on the shoulders of those that have built the platforms we all use today. And with that advantage, we want to fill the void that deserves better: web3 and the NFT space.
 
 ## Our Story
 
-The idea behind <mark style="color:purple;">Veld View</mark> is simple, but clear. In most cases, it's an accumulation of experiences many of us have been through already. And to best explain what we're trying to develop, we're going to take a step back.&#x20;
+The idea behind <mark style="color:purple;">**Veld View**</mark> is simple and ultimately born out of practical experiences. It's an accumulation of these experiences, both in and out of the web3 space, that many of us have been through already. And to best explain what we're trying to develop, we're going to take a step back.&#x20;
 
-Imagine you're trading your first NFT, one that _really_ caught your eye, and you can't help but ask:
+**For most new adopters in the crypto and web3-media space, the process of purchasing an NFT is painstakingly complicated**. And through this process, a lot of valid questions are usually asked:
 
 {% hint style="danger" %}
-1. Do I own this picture? Who made it?
-2. Can I trust the seller? Is this a scam?
-3. How I do find more projects like this?
-4. How can I connect with other people in the space?
+1. Do I own this image? Who is the author? Are there others like it?
+2. Can I trust the seller? Is this a scam? Is it safe to connect my wallet?
+3. How do I talk to other people in my shoes?
+4. What next?
 {% endhint %}
 
-And after that initial uncertainty goes away, you probably ape in head first. And again. And again.
+**The adoption tends to end there, hard stop.**
 
-Fast forward, and your wallet size has grown. You've dipped your toes into a few different projects. You've established an on-chain presence across platforms to connect with others just like you ... and like most of us, you've probably made a few mistakes along the way.
+The perception of value at risk, and the lack of utility beyond accumulation, usually turns most web2 users away. And for the folks that stick around, it's a rabbit-hole of never-ending learning, collecting, and navigating the space that travels at lightspeed.
 
-Between a million wallets across ten chains, five chat room apps all trying to accomplish the same thing, and a general sense of friction when interacting with the space - it's become a full-time job.
+For the hyper-interested, they've likely established an on-chain presence across platforms. There's implicit needs and interests for how they want to engage with the space. They want to connect with others interested in the things they're interested in, they want to talk to people and learn about what's next, they want to see engagement from others in the space, and they want privacy at their control.&#x20;
+
+**And in pursuit of many of these things, you're likely to make a few mistakes along the way. We all have.**
+
+Between a million wallets across a dozen chains, an uncomfortable number of chat room apps all trying to accomplish the same thing, and an error-filled purist approach to what NFT users want, a lot of users get exhausted.
+
+There's too much friction. A lot of developers and visionaries see the peak, but not the mountain before them. It's practically a full-time job just trying to keep up.
 
 **Is this really the best experience Web3 has to offer?**
 
-The answer is **no**, and we're here to solve that.
+The answer is **no**, and we're here to _solve_ that.
 
-> _On one hand, the crypto space is beautiful in that it's evolving, literally all the time. I can't think of a time where creators weren't trying to build something new. But on the other hand, it adds a massive amount of friction into the system ... and my gut tells me, I think the space would be better off slowing down._
+> _on one hand, the crypto space is beautiful in that it's evolving, literally all the time... I can't think of a time where creators weren't trying to build something new. but on the other hand, it adds a massive amount of friction into the system ... and my gut tells me, I think the space would be better off slowing down._
 >
 > — From Twitter, unknown
 
